@@ -1,0 +1,11 @@
+/* src/App.css */
+
+div {
+    background-color: teal;
+  }
+  
+  img {
+    display: flex;
+    height: 50px;
+    width: 50px;
+  }
